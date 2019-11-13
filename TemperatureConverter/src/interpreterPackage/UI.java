@@ -15,7 +15,7 @@ public class UI extends JFrame implements UIInterface {
 	private JTextArea textArea;
 	
 	public UI() {
-		super("Temperature Convertor");
+		super("Temperature Converter");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setResizable(false);
 		setVisible(true);
